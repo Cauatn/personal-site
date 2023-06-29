@@ -1,0 +1,24 @@
+.header {
+
+    display: flex;
+
+    flex-direction: row;
+
+    align-items: center;
+ 
+    padding-top: 1.5rem;
+    padding-bottom: 0.5rem;
+
+    justify-content: space-between;
+
+}
+
+.header img {
+    border-radius: 99999px;
+}
+
+.header a {
+    padding: 0px;
+
+    text-decoration: none;
+}
