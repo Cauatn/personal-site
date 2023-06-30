@@ -1,5 +1,5 @@
 .Main {
-    margin-top: 4rem;
+    margin-top: 3.4rem;
     margin-bottom: 6rem;
 
     line-height: 1.625;
@@ -7,10 +7,17 @@
 }
 
 .h1 {
-    font-size: 3.75rem;
+    font-size: 3.5rem;
     line-height: 1;
 
     margin: 0px;
+}
+
+.h2 {
+    font-size: 2.5rem;
+
+    margin-top: 0.2rem;
+    margin-bottom: 0px;
 }
 
 
