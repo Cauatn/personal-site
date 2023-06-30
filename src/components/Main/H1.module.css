@@ -16,7 +16,7 @@
 .h2 {
     font-size: 2.5rem;
 
-    margin-top: 0.2rem;
+    margin-top: 0.6rem;
     margin-bottom: 0px;
 }
 
@@ -38,4 +38,19 @@ ul {
     list-style-type: none; /* Remove bullets */
     padding: 0; /* Remove padding */
     margin: 0; /* Remove margins */
+
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+    justify-content: start;
+}
+
+li {
+    margin-right: 11px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
 }
