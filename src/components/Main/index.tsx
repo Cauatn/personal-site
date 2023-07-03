@@ -1,5 +1,4 @@
 import Github from '../icons/github'
-import Gmail from '../icons/gmail'
 import Whatssap from '../icons/whatssap'
 import Style from './H1.module.css'
 
