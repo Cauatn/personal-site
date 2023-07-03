@@ -13,10 +13,10 @@ export default function H1() {
             </p>
             <ul >
                 <li>
-                    <Github />
+                    <a href="https://github.com/Cauatn"><Github /></a>
                 </li>
                 <li>
-                    <Whatssap/>
+                    <a href=""><Whatssap/></a>
                 </li>
             </ul>
 
